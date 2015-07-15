@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/1002475/Documents/workspace_Spring/git_spring_study/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+870853624.index
+2232053459.index
+3620888084.index
+2293442199.index
+2898945419.index
+2589275876.index
