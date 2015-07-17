@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="bankspring"/>
+<aop-project name="proj_Spring"/>
+</aop-reference-model>
